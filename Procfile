@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar target/your-next-trip-master-0.0.1-SNAPSHOT.jar
