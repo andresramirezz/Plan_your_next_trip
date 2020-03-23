@@ -30,10 +30,8 @@
     <div class="row">
         <div class="col-md-4 col-lg-3 photo-card">
             <img alt="minion1" src="image/minion1.png" class="img-fluid"
-                 width="290px"> <strong>HANI</strong> is a programming
-            enthusiast and is currently participating in a program to become a
-            Java programmer. In his spare time he learns how to play piano and
-            golf.
+                 width="290px"> <strong>HANI</strong> is currently participating in a program to become a
+            Java programmer. He enjoys cooking and basketball in his spare time.
         </div>
         <div class="col-md-4 col-lg-3 photo-card">
             <img alt="minion1" src="image/minion2.png" class="img-fluid"
