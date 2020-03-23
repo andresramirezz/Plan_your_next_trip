@@ -18,3 +18,8 @@ To run the project, use Tomcat v9 in Eclipse.
 For the project to run, an Algolia Places API key must be provided. To do this, create a free account at https://www.algolia.com/users/sign_up/places
 Place the project ID, **in quotes**, in a file named `algolia-app-id`, and the Search API key, **in quotes**, in a file named `algolia-api-key`.
 Both files must be placed in the `WebContent` folder.
+
+## How to deploy this project in Heroku
+$ heroku plugins:install heroku-cli-deploy
+heroku war:deploy target/your-next-trip-0.0.1-SNAPSHOT.war --app your-next-trip
+Uploading your-next-trip-0.0.1-SNAPSHOT.war

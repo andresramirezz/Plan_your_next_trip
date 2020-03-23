@@ -1,1 +1,0 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -war target/your-next-trip-0.0.1-SNAPSHOT.war
